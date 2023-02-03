@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm SASHi BHUMARAJU</h1>
-<h3 align="left" font-size="10">As a developer with experience in Java Full Stack and React JS, my passion for technology began during my schooling and was further nurtured during my studies in computer science and engineering. I have hands-on experience in various programming languages and technologies, including Java, React JS, Spring Boot, MySQL, Git, and Github. I am a quick learner, possess strong problem-solving skills, and am an effective team player. My background also includes working on a startup project, where I helped conduct and organize gaming tournaments.</h3>
+<h3 align="left" font-size="10px">As a developer with experience in Java Full Stack and React JS, my passion for technology began during my schooling and was further nurtured during my studies in computer science and engineering. I have hands-on experience in various programming languages and technologies, including Java, React JS, Spring Boot, MySQL, Git, and Github. I am a quick learner, possess strong problem-solving skills, and am an effective team player. My background also includes working on a startup project, where I helped conduct and organize gaming tournaments.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasibhumaraju&label=Profile%20views&color=0e75b6&style=flat" alt="sasibhumaraju" /> </p>
 
