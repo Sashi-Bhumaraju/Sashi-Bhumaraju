@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasibhumaraju&label=Profile%20views&color=0e75b6&style=flat" alt="sasibhumaraju" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bhumarajusashi" target="blank"><img src="https://img.shields.io/twitter/follow/bhumarajusashi?logo=twitter&style=for-the-badge" alt="bhumarajusashi" /></a> </p>
+
 
 - 📫 How to reach me **sasi.bhumaraju@gmail.com**
 
