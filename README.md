@@ -1,5 +1,5 @@
-<p align="left" font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 54px; font-style: normal; font-variant: normal; font-weight: 900; line-height: 26.4px; > Hi 👋, I'm SASHi BHUMARAJU </p>
-<p align="left" font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 54px; font-style: normal; font-variant: normal; font-weight: 900; line-height: 50.4px;> Hi 👋, I'm SASHi BHUMARAJU </p>
+
+<p align="left" font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 54px; font-weight: 900; line-height: 50.4px;> Hi 👋, I'm Sashi Bhumaraju </p>
 
 
 
