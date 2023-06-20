@@ -7,24 +7,40 @@
 
 <h5 align="left" font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 54px; font-weight: 900; line-height: 50.4px;> 
   
-Frontend Development:
+<h1>Frontend Development:</h1>
+<br>
 React.js
+<br>
 Redux
+<br>
 JavaScript (ES6+)
+<br>
 HTML5
+<br>
 CSS3
+<br>
 Responsive Web Design
+<br>
 CSS frameworks (e.g., Bootstrap, Material-UI)
+<br>
 
-Backend Development:
+<h1>Backend Development:</h1>
+<br>
 Spring Boot
+<br>
 Java
+<br>
 RESTful APIs
+<br>
 SQL and Database Management
+<br>
 
-Version Control:
+<h1>Version Control:</h1>
+<br>
 Git
+<br>
 GitHub
+<br>
 </h5>
 
 
