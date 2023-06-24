@@ -1,5 +1,5 @@
 
-<h3 align="left" font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 54px; font-weight: 900; line-height: 50.4px;>I'm Sashi Bhumaraju </h3>
+<h1 align="left" font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 54px; font-weight: 900; line-height: 50.4px;>I'm Sashi Bhumaraju </h1>
 
 
 
