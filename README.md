@@ -1,6 +1,6 @@
 # Hey there :wave:
 
-<img src="https://media.licdn.com/dms/image/C5612AQH9IZXiUN0ekg/article-inline_image-shrink_1500_2232/0/1561363494826?e=1706745600&v=beta&t=R3NKiy3lJpK-ARdILSZJi00NE_ejY7TLPkhrsUvgrCk" alt="Hello world">
+<img src="https://github.com/Sashi-Bhumaraju/Sashi-Bhumaraju/blob/main/hello%20world%202.jpg" alt="Hello world">
 
 <p align="center" width="200px"> 
   Visitor count<br>
