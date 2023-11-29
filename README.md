@@ -2,9 +2,9 @@
 
 <img src="https://github.com/Sashi-Bhumaraju/Sashi-Bhumaraju/blob/main/hello%20world%202.jpg" alt="Hello world">
 
-<p align="center" width="200px"> 
+<p align="center"> 
   Visitor count<br>
-  <img width="200px" src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img  src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
 ## About me
