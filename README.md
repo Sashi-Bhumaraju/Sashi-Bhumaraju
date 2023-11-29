@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-
+A self-motivated learner with a passion for technology, problem-solving, and innovation.
 
 
 
