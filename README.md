@@ -4,7 +4,7 @@
 
 <p align="center" width="100px"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img width="100px" src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
 ## About me
