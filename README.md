@@ -2,7 +2,7 @@
 
 <img src="https://media.licdn.com/dms/image/C5612AQH9IZXiUN0ekg/article-inline_image-shrink_1500_2232/0/1561363494826?e=1706745600&v=beta&t=R3NKiy3lJpK-ARdILSZJi00NE_ejY7TLPkhrsUvgrCk" alt="Hello world">
 
-<p align="center" width="100px"> 
+<p align="center" width="200px"> 
   Visitor count<br>
   <img width="100px" src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
